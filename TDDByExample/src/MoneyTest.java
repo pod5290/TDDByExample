@@ -10,9 +10,4 @@ public class MoneyTest {
 		assertEquals(10, five.amount);
 	}
 
-	
-	@Test
-	public void tesTest() {
-		assertEquals(10, Integer.parseInt("10"));
-	}
 }
